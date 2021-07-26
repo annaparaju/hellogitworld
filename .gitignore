@@ -1,5 +1,7 @@
-*.class
+
 *.log
 output/
+*.class
 build/
 target/
+target
